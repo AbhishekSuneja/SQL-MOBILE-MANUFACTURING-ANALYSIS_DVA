@@ -1,6 +1,5 @@
 # SQL-MOBILE-MANUFACTURING-ANALYSIS
 This data analysis case study gives insights about top cell phone manufacturing companies. Important problem statements deals on trending cell phones, orders by particular location, sales trend for different models and companies, YOY growth for sales etc.
-Major KPI's and Insights involve,
 Customer Locations: Identified all states with customers who purchased cellphones from 2005 onward, highlighting key regions for targeted marketing.
 Top Buying State: Determined the state with the highest sales of Samsung cell phones, providing insights into regional brand preferences.
 Pricing Insight: Identified the cheapest cellphone and its price, offering a perspective on the budget segment of the market.
